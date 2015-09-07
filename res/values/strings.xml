@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">test</string>
+    <string name="button_send">Send</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">AFM</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="No_Data">Hello world!</string>
+    <string name="title_activity_next">Select Subject</string>
+    <string name="title_activity_next1">Attendance Dashboard</string>
+    <string name="title_activity_next2">Attendance Record</string>
+    <string name="title_activity_next3">Import</string>
+
+</resources>
